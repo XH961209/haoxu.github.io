@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Xu"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Hao Xu"
 description              : &description "personal description"
