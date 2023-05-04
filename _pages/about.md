@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+<i class="fa-solid fa-user fa-bounce"></i> About Me
 ======
 I'm currently a second year Master student in [School of Computer Science Technology](https://cs.fudan.edu.cn/main.htm), 
 [Fudan University](https://www.fudan.edu.cn/), advised by Prof. [Jin Zhao](https://jinzhaofd.github.io/). I received my
 B.Eng. from [Northeastern University](http://www.neu.edu.cn/) in 2019.
 
-Research Interests
+<i class="fa-solid fa-magnifying-glass fa-beat"></i> Research Interests
 ======
 My research interest lies in computer networking and systems. Below are the main projects I have participated.
 - Deep Packet Inspection(DPI) Accelerating. As an intern in Intel from Feb. 2022 to now, I'm a developer of [Hyperscan](https://github.com/intel/hyperscan), 
@@ -29,5 +29,5 @@ supervised by [Chuanxiong Guo](https://sysnetome.com/index.html). I built a test
 performance of P4 gateway. The testbed utilizes a single server to simulate multiple network topologies(e.g. gateway 
 connecting with switches, gateway connecting with servers, gateway connecting with both switches and servers).
 
-Publications
+<i class="fa-solid fa-book fa-bounce"></i> Publications
 ======
