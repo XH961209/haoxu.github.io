@@ -29,8 +29,29 @@ supervised by [Chuanxiong Guo](https://sysnetome.com/index.html). I built a test
 performance of P4 gateway. The testbed utilizes a single server to simulate multiple network topologies(e.g. gateway 
 connecting with switches, gateway connecting with servers, gateway connecting with both switches and servers).
 
+<i class="fa-solid fa-fire fa-beat"></i> News
+======
+- 09/2021. Begin my studies at Fudan University.
+- 12/2021. Be interviewed by the official media outlet "Fudan Graduate Students". [Interview Piece](https://mp.weixin.qq.com/s/nvhE24wIf_py4YxPrRj8ow)
+- 02/2022. Become an intern in Intel.
+- 10/2022. Win Intel 2022 Scholarship.
+- 12/2022. One [paper](https://github.com/haoxufd/haoxufd.github.io/tree/master/files/Harry.pdf) is accepted by [INFOCOM 2023](https://infocom2023.ieee-infocom.org/).
+- 12/2022. Be selected as Intel 2022 Excellent Intern.
+
 <i class="fa-solid fa-book fa-bounce"></i> Publications
 ======
 - <strong><u>Hao Xu</u></strong>, Harry Chang, Wenjun Zhu, Yang Hong, Geoff Langdale, Kun Qiu, Jin Zhao, “[Harry: A Scalable SIMD‑based 
 Multi‑literal Pattern Matching Engine for Deep Packet Inspection](https://github.com/haoxufd/haoxufd.github.io/tree/master/files/Harry.pdf)”. 
-In IEEE International Conference on Computer Communications <strong>(INFOCOM’23)</strong>. Acceptance Rate: 252/1312=19%. <p style="color: red;">[Deployed in Hyperscan]</p>
+In IEEE International Conference on Computer Communications <strong>(INFOCOM’23)</strong>. Acceptance Rate: 252/1312=19%. 
+<span style="color: red;">[Deployed in Hyperscan]</span>
+
+<i class="fa-solid fa-user-graduate fa-beat"></i> Educations
+======
+- 09/2021 - Now.      M.Eng. at School of Computer Science, Fudan University.
+- 09/2015 - 07/2019.  B.Eng. at School of Computer Science and Technology, Northeastern University.
+
+<i class="fa-solid fa-building fa-bounce"></i> Industrial Experience
+======
+- 02/2022 - Now.     Intern, Intel Network Platforms Group.
+- 05/2021 - 08/2021  Intern, Bytedance Infrastructure Department.
+- 07/2019 - 08/2020  Software Engineer, Sangfor Virtual Network Department.
