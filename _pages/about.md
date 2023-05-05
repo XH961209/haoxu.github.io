@@ -21,8 +21,8 @@ My research interest lies in computer networking and systems. Below are the main
 the fastest regular expression matching engine running on modern CPUs. I would take advantage of SIMD to accelerate the
 multi-literal matching process, a critical step in Hyperscan's workflow. Hyperscan has been integrated into famous DPI 
 applications such as Snort and Suricata. It dramatically increases their real-time packet processing capability. Our 
-works have been published in [NSDI](https://dl.acm.org/doi/10.5555/3323234.3323286) and [ICPP](https://dl.acm.org/doi/abs/10.1145/3472456.3473512), 
-and accepted by INFOCOM 2023(authored by me, to be published).
+works have been published in [NSDI](https://dl.acm.org/doi/10.5555/3323234.3323286), [ICPP](https://dl.acm.org/doi/abs/10.1145/3472456.3473512), 
+and [INFOCOM](https://github.com/haoxufd/haoxufd.github.io/tree/master/files/Harry.pdf)(Authored by me | To be published).
 - SDN. I used to work in [Sangfor](https://www.sangfor.com/) for a year, where I developed the control plane of an SDN system.
 - P4 Gateway Testbed. I worked in [Bytedance](https://www.bytedance.com/en/) as an intern from May 2021 to Aug. 2021, 
 supervised by [Chuanxiong Guo](https://sysnetome.com/index.html). I built a testbed to test the functionality and 
@@ -31,3 +31,6 @@ connecting with switches, gateway connecting with servers, gateway connecting wi
 
 <i class="fa-solid fa-book fa-bounce"></i> Publications
 ======
+- <strong><u>Hao Xu</u></strong>, Harry Chang, Wenjun Zhu, Yang Hong, Geoff Langdale, Kun Qiu, Jin Zhao, “[Harry: A Scalable SIMD‑based 
+Multi‑literal Pattern Matching Engine for Deep Packet Inspection](https://github.com/haoxufd/haoxufd.github.io/tree/master/files/Harry.pdf)”. 
+In IEEE International Conference on Computer Communications <strong>(INFOCOM’23)</strong>. Acceptance Rate: 252/1312=19%. <p style="color: red;">[Deployed in Hyperscan]</p>
