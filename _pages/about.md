@@ -16,8 +16,8 @@ B.Eng. from [Northeastern University](http://www.neu.edu.cn/) in 2019.
 
 <i class="fa-solid fa-magnifying-glass fa-beat"></i> Research Interests
 ======
-My research interests lie in computer networking and systems. Below are the main projects I have participated.
-- Deep Packet Inspection(DPI) Accelerating. As an intern in Intel from Feb. 2022 to now, I'm a developer of [Hyperscan](https://github.com/intel/hyperscan), 
+My research interests lie in computer networking and systems. Below are the major projects I participated in.
+- Deep Packet Inspection (DPI) Accelerating. As an intern in Intel from Feb. 2022 to now, I'm a developer of [Hyperscan](https://github.com/intel/hyperscan), 
 the fastest regular expression matching engine running on modern CPUs. I would take advantage of SIMD to accelerate the
 multi-literal matching process, a critical step in Hyperscan's workflow. Hyperscan has been integrated into famous DPI 
 applications such as Snort and Suricata. It dramatically increases their real-time packet processing capability. Our 
@@ -34,10 +34,9 @@ connecting with switches, gateway connecting with servers, gateway connecting wi
 ======
 - 12/2022. Be selected as Intel 2022 Excellent Intern.
 - 12/2022. One [paper](https://haoxufd.github.io/files/Harry.pdf) is accepted by [INFOCOM 2023](https://infocom2023.ieee-infocom.org/).
-- 10/2022. Win Intel 2022 Scholarship.
-- 02/2022. Become an intern in Intel.
+- 10/2022. Win Intel 2022 Fellowship.
 - 12/2021. Be interviewed by the official media outlet "Fudan Graduate Students". [Interview Piece](https://mp.weixin.qq.com/s/nvhE24wIf_py4YxPrRj8ow)
-- 09/2021. Begin my studies at Fudan University.
+- 04/2021. Be accepted by School of Computer Science, Fudan University.
 
 <i class="fa-solid fa-book fa-bounce"></i> Publications
 ======
@@ -45,6 +44,9 @@ connecting with switches, gateway connecting with servers, gateway connecting wi
 Multi‑literal Pattern Matching Engine for Deep Packet Inspection](https://haoxufd.github.io/files/Harry.pdf)”. 
 In IEEE International Conference on Computer Communications <strong>(INFOCOM’23)</strong>. Acceptance Rate: 252/1312=19%. 
 <span style="color: red;">[Deployed in Hyperscan]</span>
+- <strong><u>Hao Xu</u></strong>, Harry Chang, Kun Qiu, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, Jin Zhao, “Teddy+: An Enhanced 
+SIMD‑based Literal Matching Engine for Deep Packet Inspection”. In IEEE Transactions on Parallel and Distributed Systems <strong>(TPDS)</strong>. 
+<span style="color: red;">[Under Review]</span>
 
 <i class="fa-solid fa-user-graduate fa-beat"></i> Educations
 ======
@@ -56,3 +58,12 @@ In IEEE International Conference on Computer Communications <strong>(INFOCOM’2
 - 02/2022 - Now.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intern, Intel Network Platforms Group.
 - 05/2021 - 08/2021&nbsp;&nbsp;&nbsp;Intern, Bytedance Infrastructure Department.
 - 07/2019 - 08/2020&nbsp;&nbsp;&nbsp;Software Engineer, Sangfor Virtual Network Department.
+
+<i class="fa-solid fa-award fa-beat"></i> Achievements
+======
+- 12/2022 Win 2022 Intel Excellent Intern.
+- 09/2022 Win 2022 Intel Fellowship.
+- 04/2021 Rank top 1% in the graduate entrance examination towards Fudan CS.
+- 09/2017 First Class Scholarship of Northeastern University.
+- 09/2016 National Encouragement Scholarship.
+- 09/2016 First Class Scholarship of Northeastern University.

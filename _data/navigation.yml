@@ -18,6 +18,9 @@ main:
   - title: "Industry"
     id: industrial-experience
 
+  - title: "Achievements"
+    id: achievements
+
 
 #  - title: "Talks"
 #    url: /talks/
