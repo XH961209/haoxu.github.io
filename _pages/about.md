@@ -22,7 +22,7 @@ the fastest regular expression matching engine running on modern CPUs. I would t
 multi-literal matching process, a critical step in Hyperscan's workflow. Hyperscan has been integrated into famous DPI 
 applications such as Snort and Suricata. It dramatically increases their real-time packet processing capability. Our 
 works have been published in [NSDI](https://dl.acm.org/doi/10.5555/3323234.3323286), [ICPP](https://dl.acm.org/doi/abs/10.1145/3472456.3473512), 
-and [INFOCOM](https://haoxufd.github.io/files/Harry.pdf)(Authored by me & To be published).
+and [INFOCOM](https://haoxufd.github.io/files/Harry.pdf) (Authored by me).
 - SDN. I used to work in [Sangfor](https://www.sangfor.com/) Virtual Network Department for a year, where I worked with 
 a seven-person team to develop the control plane of an SDN system.
 - P4 Gateway Testbed. I worked in [Bytedance](https://www.bytedance.com/en/) as an intern from May 2021 to Aug. 2021, 
