@@ -18,10 +18,11 @@ B.Eng. from [Northeastern University](http://www.neu.edu.cn/) in 2019.
 ======
 My research interests lie in computer networking and systems. Below are the major projects I participated in.
 - Deep Packet Inspection (DPI) Accelerating. As an intern in Intel from Feb. 2022 to now, I'm a developer of [Hyperscan](https://github.com/intel/hyperscan), 
-the fastest regular expression matching engine running on modern CPUs. I would take advantage of SIMD to accelerate the
-process of multi-pattern string matching and DFA transformation, critical steps in Hyperscan's workflow. Hyperscan has been integrated into famous DPI 
-applications such as Snort and Suricata. It dramatically increases their real-time packet processing capability. Relevant 
-works have been published in [NSDI](https://dl.acm.org/doi/10.5555/3323234.3323286), [ICPP](https://dl.acm.org/doi/abs/10.1145/3472456.3473512), 
+the fastest regular expression matching engine running on modern CPUs. I would convert the processes of multi-string 
+matching and DFA transformation, critical steps in Hyperscan's workflow, into bitwise operations and take advantage of 
+SIMD to accelerate them. Hyperscan has been integrated into famous DPI applications such as Snort and Suricata. 
+It dramatically increases their real-time packet processing capability. Relevant works have been published in 
+[NSDI](https://dl.acm.org/doi/10.5555/3323234.3323286), [ICPP](https://dl.acm.org/doi/abs/10.1145/3472456.3473512), 
 and [INFOCOM](https://haoxufd.github.io/files/Harry.pdf) (Authored by me).
 - SDN. I used to work in [Sangfor](https://www.sangfor.com/) Virtual Network Department for a year, where I worked with 
 a seven-person team to develop the control plane of an SDN system.
