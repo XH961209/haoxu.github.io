@@ -24,6 +24,7 @@ SIMD to accelerate them. Hyperscan has been integrated into famous DPI applicati
 It dramatically increases their real-time packet processing capability. Relevant works have been published in 
 [NSDI](https://dl.acm.org/doi/10.5555/3323234.3323286), [ICPP](https://dl.acm.org/doi/abs/10.1145/3472456.3473512), 
 and [INFOCOM](https://haoxufd.github.io/files/Harry.pdf).
+- IPU Feature Development. As an intern in Intel, I also work on developing new features for IPU based on the specific requirements of Google Cloud. This involves the offloading of fundamental infrastructure‑related tasks from CPU to IPU.
 - SDN. I used to work in [Sangfor](https://www.sangfor.com/) Virtual Network Department for a year, where I worked with 
 a seven-person team to develop the control plane of an SDN system.
 - P4 Gateway Testbed. I worked in [Bytedance](https://www.bytedance.com/en/) as an intern from May 2021 to Aug. 2021, 
@@ -43,11 +44,12 @@ connecting with switches, gateway connecting with servers, gateway connecting wi
 ======
 - <strong>Hao Xu</strong>, Harry Chang, Wenjun Zhu, Yang Hong, Geoff Langdale, Kun Qiu, Jin Zhao, “[Harry: A Scalable SIMD‑based 
 Multi‑literal Pattern Matching Engine for Deep Packet Inspection](https://haoxufd.github.io/files/Harry.pdf)”. 
-In IEEE International Conference on Computer Communications <strong>(INFOCOM’23)</strong>. Acceptance Rate: 252/1312=19%. 
-<span style="color: red;">[Deployed in Hyperscan]</span>
+In IEEE International Conference on Computer Communications <strong>(INFOCOM’23)</strong>. Acceptance Rate: 252/1312=19%.
 - <strong>Hao Xu</strong>, Harry Chang, Kun Qiu, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, Jin Zhao, “Accelerating Deep Packet Inspection with
-SIMD-based Multi-literal Matching Engine”. In IEEE Transactions on Network and Service Management <strong>(TNSM)</strong>. 
-<span style="color: red;">[Under Review]</span>
+SIMD-based Multi-literal Matching Engine”. In IEEE Transactions on Network and Service Management <strong>(TNSM)</strong>.
+<span style="color: red;">[Unber Review->Minor Revision->Unber Review]</span>
+- <strong>Hao Xu</strong>, Zhiyong Zhang, Jun Zhao, Kun Qiu, Yang Hong, Wenjun Zhu, Geoff Langdale, Jin Zhao, “Optimizing the Data and Instruction‑Level Parallelism of SIMD‑based Multi‑literal Pattern Matching Algorithm”. In IEEE Transactions on Parallel and Distrubuted Systems <strong>(TPDS)</strong>. 
+<span style="color: red;">[Unber Review]</span>
 
 <i class="fa-solid fa-user-graduate"></i> Educations
 ======
@@ -62,6 +64,7 @@ SIMD-based Multi-literal Matching Engine”. In IEEE Transactions on Network and
 
 <i class="fa-solid fa-award"></i> Achievements
 ======
+- 12/2023 Win HuaTai Securities Technology Fellowship.
 - 12/2022 Win 2022 Intel Excellent Intern.
 - 09/2022 Win 2022 Intel Fellowship.
 - 04/2021 Rank top 1% in the graduate entrance examination towards Fudan CS.
