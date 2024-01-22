@@ -10,9 +10,9 @@ redirect_from:
 
 <i class="fa-solid fa-user"></i> About Me
 ======
-I'm currently a final year Master student in the [School of Computer Science Technology](https://cs.fudan.edu.cn/main.htm), 
-[Fudan University](https://www.fudan.edu.cn/), advised by Prof. [Jin Zhao](https://jinzhaofd.github.io/). I obtained my
-B.Eng. degree from [Northeastern University](http://www.neu.edu.cn/) in 2019.
+I am currently a prospective PhD student in the joint program between the University of Göttingen and the University of Sydney. I got my M.Eng. degree from the [School of Computer Science Technology](https://cs.fudan.edu.cn/main.htm), 
+[Fudan University](https://www.fudan.edu.cn/) in 2024. I obtained my
+B.Eng. degree from the [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/), [Northeastern University](http://www.neu.edu.cn/) in 2019.
 
 <i class="fa-solid fa-magnifying-glass"></i> Research Interests
 ======
@@ -24,12 +24,12 @@ SIMD to accelerate them. Hyperscan has been integrated into famous DPI applicati
 It dramatically increases their real-time packet processing capability. Relevant works have been published in 
 [NSDI](https://dl.acm.org/doi/10.5555/3323234.3323286), [ICPP](https://dl.acm.org/doi/abs/10.1145/3472456.3473512), 
 and [INFOCOM](https://haoxufd.github.io/files/Harry.pdf).
-- IPU Feature Development. As an intern in Intel, I also work on developing new features for IPU based on the specific requirements of Google Cloud. This involves the offloading of fundamental infrastructure‑related tasks from CPU to IPU.
 - SDN. I used to work in [Sangfor](https://www.sangfor.com/) Virtual Network Department for a year, where I worked with a seven-person team to develop the control plane of an SDN system.
 - P4 Gateway Testbed. I worked in [Bytedance](https://www.bytedance.com/en/) as an intern from May 2021 to Aug. 2021, supervised by [Chuanxiong Guo](https://sysnetome.com/index.html). I built a testbed to test the functionality and performance of P4 gateway. The testbed utilizes a single server to simulate multiple network topologies(e.g. gateway connecting with switches, gateway connecting with servers, gateway connecting with both switches and servers).
 
 <i class="fa-solid fa-fire"></i> News
 ======
+- 06/2024. Win Shanghai Outstanding Graduate.
 - 01/2024. One [paper](https://haoxufd.github.io/files/ReinforcedTeddy.pdf) is accepted by [TNSM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028).
 - 12/2023. Win HuaTai Securities Technology Fellowship.
 - 12/2022. Be selected as Intel 2022 Excellent Intern.
@@ -48,17 +48,18 @@ In IEEE International Conference on Computer Communications <strong>(INFOCOM’2
 
 <i class="fa-solid fa-user-graduate"></i> Educations
 ======
-- 09/2021 - Now.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.Eng. at School of Computer Science, Fudan University.
-- 09/2015 - 07/2019.&nbsp;&nbsp;&nbsp;B.Eng. at School of Computer Science and Technology, Northeastern University.
+- 09/2021 - 06/2024.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.Eng. at School of Computer Science, Fudan University.
+- 09/2015 - 07/2019.&nbsp;&nbsp;&nbsp;B.Eng. at School of Computer Science and Engineering, Northeastern University.
 
 <i class="fa-solid fa-building"></i> Industrial Experience
 ======
-- 02/2022 - 12/2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intern, Intel Network Platforms Group.
+- 02/2022 - 12/2023&nbsp;&nbsp;&nbsp;Intern, Intel Network Platforms Group.
 - 05/2021 - 08/2021&nbsp;&nbsp;&nbsp;Intern, Bytedance Infrastructure Department.
 - 07/2019 - 08/2020&nbsp;&nbsp;&nbsp;Software Engineer, Sangfor Virtual Network Department.
 
 <i class="fa-solid fa-award"></i> Achievements
 ======
+- 06/2024 Win Shanghai Outstanding Graduate.
 - 12/2023 Win HuaTai Securities Technology Fellowship.
 - 12/2022 Win 2022 Intel Excellent Intern.
 - 09/2022 Win 2022 Intel Fellowship.
