@@ -40,11 +40,9 @@ and [INFOCOM](https://haoxufd.github.io/files/Harry.pdf).
 
 <i class="fa-solid fa-book"></i> Publications
 ======
-- <strong>Hao Xu</strong>, Harry Chang, Wenjun Zhu, Yang Hong, Geoff Langdale, Kun Qiu, Jin Zhao, “[Harry: A Scalable SIMD‑based 
-Multi‑literal Pattern Matching Engine for Deep Packet Inspection](https://haoxufd.github.io/files/Harry.pdf)”. 
+- <strong>Hao Xu</strong>, Harry Chang, Wenjun Zhu, Yang Hong, Geoff Langdale, Kun Qiu, Jin Zhao, “[Harry: A Scalable SIMD‑based Multi‑literal Pattern Matching Engine for Deep Packet Inspection](https://haoxufd.github.io/files/Harry.pdf)”. 
 In IEEE International Conference on Computer Communications <strong>(INFOCOM’23)</strong>. Acceptance Rate: 252/1312=19%.
-- <strong>Hao Xu</strong>, Harry Chang, Kun Qiu, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, Jin Zhao, “Accelerating Deep Packet Inspection with
-SIMD-based Multi-literal Matching Engine”. In IEEE Transactions on Network and Service Management <strong>(TNSM)</strong>.
+- <strong>Hao Xu</strong>, Harry Chang, Kun Qiu, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, Jin Zhao, “[Accelerating Deep Packet Inspection with SIMD-based Multi-literal Matching Engine](https://haoxufd.github.io/files/ReinforcedTeddy.pdf)”. In IEEE Transactions on Network and Service Management <strong>(TNSM)</strong>.
 - <strong>Hao Xu</strong>, Zhiyong Zhang, Jun Zhao, Kun Qiu, Yang Hong, Wenjun Zhu, Geoff Langdale, Jin Zhao, “Optimizing the Data and Instruction‑Level Parallelism of SIMD‑based Multi‑literal Pattern Matching Algorithm”. In IEEE Transactions on Parallel and Distrubuted Systems <strong>(TPDS)</strong>. 
 <span style="color: red;">[Under Review]</span>
 
